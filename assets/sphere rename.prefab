@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4235925915823370164}
   - component: {fileID: 9033682691342890805}
   m_Layer: 0
-  m_Name: Sphere_test prefab
+  m_Name: sphere rename
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
